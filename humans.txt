@@ -4,6 +4,8 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Fedor	QA	NA
+	P000	Dev	NA
 
 # THANKS
 
