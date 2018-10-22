@@ -1,3 +1,4 @@
 MyFile.ext
 *.ext1
 my-folder-ignored/
+*.orig
