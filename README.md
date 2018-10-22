@@ -14,6 +14,6 @@ To check something
 
 ## How To Contribute
 
-111
+### Copyright
 
-333
+2018 Fedor Denisov
